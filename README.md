@@ -1,2 +1,2 @@
 # hello-world
-This repository is for a bonus assignment.
+Hey, I created a branch. Guess I'm pretty good at this.
